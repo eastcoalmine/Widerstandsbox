@@ -6,4 +6,4 @@ Variable einstellbarer Widerstand
 
 schwächster Widerstand 25W
 
-![Bild](pic_001)
+![Bild](pic_001.jpg)
